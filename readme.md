@@ -1,18 +1,13 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![screenshoot] (https://asiakabacinska.github.io/hydrapp/img/hydarpp_zrzut2.png)
 
-# WTF Webpack Starter Kit 
+# Hydrapp
 
-Simple toolkit for your static websites development.
+Hydrapp is an application to calculate how many glasses of water we have drunk a day.
 
 ## How to use it?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+If you want to try it out, enter this link ![hydrapp] (https://asiakabacinska.github.io/hydrapp/)
 
-## Available scripts
+## Sources
 
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
-
+This app was created as part of the course "WTF co ten frontend".
