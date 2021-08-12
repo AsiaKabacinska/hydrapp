@@ -1,4 +1,4 @@
-![screenshoot] (https://asiakabacinska.github.io/hydrapp/img/hydarpp_zrzut2.png)
+![screenshoot] (https://asiakabacinska.github.io/hydrapp/public/Zrzut-ekranu-hydrapp.png)
 
 # Hydrapp
 
